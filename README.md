@@ -15,7 +15,7 @@ No istallation should be necessary, just visit https://tjcourey.github.io/horise
 
 Sample of the webpage on my system:
 
-![working page](assets/images/Horiseon-deployed.gif)
+![working page](assets/images/horiseon-deployed.gif)
 
 ## Usage
 
