@@ -34,8 +34,9 @@ Colaborators:
 - Alec Jurgs
 - Zac Raab
 - Zach Wahrer
-  Reference links used:
-  w3schools.com
+
+Reference links used:
+-w3schools.com
 
 ## License
 
