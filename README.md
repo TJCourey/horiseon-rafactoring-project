@@ -14,7 +14,8 @@ I am woirking on refactoring a clients webpage to make the code more concise, ha
 No istallation should be necessary, just visit https://tjcourey.github.io/horiseon-rafactoring-project/
 
 Sample of the webpage on my system:
-![working page](assets/images/Horiseon-working.png)
+
+![working page](assets/images/Horiseon-deployed.gif)
 
 ## Usage
 
