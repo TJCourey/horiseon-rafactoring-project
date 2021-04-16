@@ -2,7 +2,7 @@
 
 ## Description
 
-I am woirking on refactoring a clients webpage to make the code more concise, have better functionality, and have the webpage be more accessible.
+I am working on refactoring a clients webpage to make the code more concise, have better functionality, and have the webpage be more accessible.
 
 - This is my first personal assignment and I hoped to test the skills I have been learning
 - I did this as an example of the HTML and CSS skills I have picked up.
@@ -11,7 +11,7 @@ I am woirking on refactoring a clients webpage to make the code more concise, ha
 
 ## Installation
 
-No istallation should be necessary, just visit https://tjcourey.github.io/horiseon-rafactoring-project/
+No installation should be necessary, just visit https://tjcourey.github.io/horiseon-rafactoring-project/
 
 Sample of the webpage on my system:
 
@@ -44,7 +44,7 @@ No license needed.
 
 ## How to Contribute
 
-If you stubled across this project or are viewing it, all feedback is appreciated. Feel free to send me a message on github.com or email me at tjcourey84#gmail.com
+If you stubled across this project or are viewing it, all feedback is appreciated. Feel free to send me a message on github.com or email me at tjcourey84@gmail.com
 
 ## Tests
 
